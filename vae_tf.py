@@ -127,7 +127,7 @@ summary_op = tf.summary.merge_all()
 
 saver = tf.train.Saver()
 
-n_steps = int(1e3)
+n_steps = int(1e6)
 batch_size = 100
 
 with tf.Session() as sess:
