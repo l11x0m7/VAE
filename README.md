@@ -15,6 +15,12 @@ A python script implemented by tensorflow and experiments conducted.
 
 A python script implemented by keras and experiments conducted.
 
+## Environment
+
+* python2
+* Tensorflow1.4.1
+* Keras2.1.5
+
 ## Usage
 
 * the keras version：
